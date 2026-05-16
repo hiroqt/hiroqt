@@ -27,13 +27,13 @@ Full-Stack Web Developer specializing in **PHP Laravel**, **Vue.js**, **Next.js*
 - Integrated AI-assisted tools for code refactoring and logic enhancement
 
 **Full-Stack Web Developer — Hospital Queuing System**  
-*2024*
+*2026*
 - Built full-stack queuing system with **Vue.js**, **PHP**, and **MySQL**
 - Implemented AI assistant using **Groq LLM** for administrative support
 - Developed real-time queue management and patient tracking features
 
 **Full-Stack Web Developer — Hospital Clearance System**  
-*2024*
+*2026*
 - Created digital clearance processing system with **Vue.js** and **PHP**
 - Automated document verification and approval workflows
 - Integrated database management for patient records and clearance tracking
