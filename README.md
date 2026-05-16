@@ -14,7 +14,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25" /> About Me
 
-Full-Stack Web Developer specializing in **PHP Laravel**, **Vue.js**, **Next.js**, and **AI integration**. Building production-ready systems that automate processes and deliver seamless user experiences.
+Full-Stack Web Developer specializing in **PHP Laravel**, **Vue.js**, **Next.js**, **React.js**, and **AI integration**. Building production-ready systems that automate processes and deliver seamless user experiences.
 
 ---
 
