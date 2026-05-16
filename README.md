@@ -2,7 +2,7 @@
 
 # Arnel A. Baylon
 
-**Full-Stack Web Developer** | PHP Laravel · Vue.js · Next.js · AI Integration
+**Full-Stack Web Developer** | PHP Laravel · Vue.js · Next.js · React.js · AI Integration
 
 [![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square&logo=checkmarx&logoColor=white)](mailto:arnelbaylon15@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Trece%20Martires%20City%2C%20Cavite-blue?style=flat-square&logo=googlemaps&logoColor=white)](#)
