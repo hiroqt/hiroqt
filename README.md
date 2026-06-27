@@ -69,7 +69,7 @@ Digital clearance processing platform streamlining document verification and app
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**AI & Automation:** OpenAI API, Groq LLM, LangChain, Prompt Engineering  
+**AI & Automation:** OpenAI API, Groq LLM, Prompt Engineering  
 **Architecture:** RESTful API, MVC, OOP, Systems Analysis & Design  
 **Tools:** Supabase, NPM, Composer, Vercel, Netlify
 
