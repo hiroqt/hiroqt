@@ -6,12 +6,16 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yhel.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yhel.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-arnelbaylon15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnelbaylon15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnel%20Baylon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnel-baylon-b05233189)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yhel.vercel.app-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://yhel.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-arnelbaylon15%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnelbaylon15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnel%20Baylon-18181B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnel-baylon-b05233189)
 
-[![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge&logo=checkmarx&logoColor=white)](mailto:arnelbaylon15@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Trece%20Martires%20City%2C%20Cavite-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-18181B?style=for-the-badge&logo=checkmarx&logoColor=white)](mailto:arnelbaylon15@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Trece%20Martires%20City%2C%20Cavite-18181B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hiroqt&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <br>
 
@@ -21,7 +25,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25" /> About Me
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&color=0077b5&vCenter=true&width=500&lines=ABOUT+ME" alt="About Me" />
 
 I am a Generative AI & Full-Stack Developer specializing in **React, Next.js, Vue.js, Laravel**, and **AI integration**. I build production-ready systems that automate processes, transform organizational workflows, and deliver seamless user experiences. 
 
@@ -29,7 +33,7 @@ Check out my full work and journey on my **[Portfolio](https://yhel.vercel.app/)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" /> Experience
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&color=0077b5&vCenter=true&width=500&lines=EXPERIENCE" alt="Experience" />
 
 **Intern Full Stack Developer** — *General Emilio Aguinaldo Memorial Hospital (2026)*  
 Building medical-related projects and systems.
@@ -46,7 +50,7 @@ Developing custom software systems, scalable cloud solutions, and robust archite
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> Selected Work
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&color=0077b5&vCenter=true&width=500&lines=SELECTED+WORK" alt="Selected Work" />
 
 ### PaceMentor
 Comprehensive mobile application that transforms how runners train, track, and achieve their goals. Featuring AI-powered coaching, adaptive training plans, real-time GPS tracking, and Strava integration.  
@@ -72,62 +76,80 @@ Comprehensive attendance and time tracking application that transforms how organ
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> Technical Stack
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&color=0077b5&vCenter=true&width=500&lines=TECHNICAL+STACK" alt="Technical Stack" />
 
 <div align="center">
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-18181B?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-18181B?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-18181B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <br>
 
 **Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-18181B?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-18181B?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-18181B?style=for-the-badge&logo=supabase&logoColor=white)
 
 <br>
 
 **DevOps & Tools**  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-18181B?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-18181B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-18181B?style=for-the-badge&logo=trello&logoColor=white)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="25" /> Certifications
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&color=0077b5&vCenter=true&width=500&lines=CERTIFICATIONS" alt="Certifications" />
 
-- **IBM AI Certifications (7 Topics)** - *Foundations, Deep Learning, RAG, Machine Learning*
-- **AWS Certifications (4 Topics)** - *Object Storage, Generative AI, Serverless Mindset, Advanced SQL*
-- **Lean Six Sigma White Belt** - *Process Improvement & Quality Management*
-- **Internship - 486hrs** - *Full Stack & IT Support at General Emilio Aguinaldo Memorial Hospital*
+#### IBM AI Certifications
+- **AI Fundamentals:** Foundations for Understanding AI
+- **AI Forms and Functions**
+- **Introduction to Artificial Intelligence**
+- **Machine Learning**
+- **Neural Networks and Deep Learning**
+- **Retrieval-Augmented Generation** for Enhanced AI Outputs
+- **The Intelligence Behind AI**
+
+<br>
+
+#### AWS Certifications
+- **Advanced SQL and Database Design**
+- **AWS Knowledge:** Object Storage
+- **Generative AI**
+- **Serverless Mindset**
+
+<br>
+
+#### Professional Certifications & Experience
+- **Lean Six Sigma White Belt** — *Process Improvement & Quality Management*
+- **Internship (486hrs)** — *Full Stack & IT Support at General Emilio Aguinaldo Memorial Hospital*
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="25" /> Contact
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&color=0077b5&vCenter=true&width=500&lines=CONTACT" alt="Contact" />
 
-[![Email](https://img.shields.io/badge/Email-arnelbaylon15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnelbaylon15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnel%20Baylon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnel-baylon-b05233189)
-[![Facebook](https://img.shields.io/badge/Facebook-Arnel%20Baylon-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arnel.baylon.165)
-[![Instagram](https://img.shields.io/badge/Instagram-@yheellll-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yheellll?igsh=MWYxMDZlMzYzNXA2dw)
-[![Phone](https://img.shields.io/badge/Phone-%2B63%20969%20286%202127-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639692862127)
+[![Email](https://img.shields.io/badge/Email-arnelbaylon15%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnelbaylon15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnel%20Baylon-18181B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnel-baylon-b05233189)
+[![Facebook](https://img.shields.io/badge/Facebook-Arnel%20Baylon-18181B?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arnel.baylon.165)
+[![Instagram](https://img.shields.io/badge/Instagram-@yheellll-18181B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yheellll?igsh=MWYxMDZlMzYzNXA2dw)
+[![Phone](https://img.shields.io/badge/Phone-%2B63%20969%20286%202127-18181B?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639692862127)
 
 <br>
 <br>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=hiroqt&color=0077B5&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=hiroqt&color=18181B&style=for-the-badge)
 
 </div>
