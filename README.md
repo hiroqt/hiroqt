@@ -1,155 +1,184 @@
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              hiroqt@portfolio:~$ whoami                         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-# Arnel A. Baylon
-### Generative AI & Full-Stack Developer
-**Making daily operations easier through high-performance architectures, scalable cloud solutions, and robust systems.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=39D353&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%24+./init_profile.sh;Loading+Arnel+A.+Baylon...+%5BOK%5D" alt="init" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Arnel+A.+Baylon;Generative+AI+Developer;Full-Stack+Engineer;System+Architect" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=800&color=39D353&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%24+status%3A+OPEN+TO+OPPORTUNITIES+%E2%9C%94;%24+location%3A+Trece+Martires+City%2C+Cavite+%E2%9C%94" alt="status" />
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yhel.vercel.app-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://yhel.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-arnelbaylon15%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnelbaylon15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnel%20Baylon-18181B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnel-baylon-b05233189)
-
-[![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-18181B?style=for-the-badge&logo=checkmarx&logoColor=white)](mailto:arnelbaylon15@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Trece%20Martires%20City%2C%20Cavite-18181B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hiroqt&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiroqt&bg_color=0D1117&color=0077b5&line=0077b5&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+[![Portfolio](https://img.shields.io/badge/▶_yhel.vercel.app-18181B?style=for-the-badge&logo=vercel&logoColor=39D353)](https://yhel.vercel.app/)
+[![Email](https://img.shields.io/badge/▶_arnelbaylon15@gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:arnelbaylon15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/▶_LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/arnel-baylon-b05233189)
 
 </div>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&color=0077b5&vCenter=true&width=500&lines=ABOUT+ME" alt="About Me" />
-
-I am a Generative AI & Full-Stack Developer specializing in **React, Next.js, Vue.js, Laravel**, and **AI integration**. I build production-ready systems that automate processes, transform organizational workflows, and deliver seamless user experiences. 
-
-Check out my full work and journey on my **[Portfolio](https://yhel.vercel.app/)**.
-
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&color=0077b5&vCenter=true&width=500&lines=EXPERIENCE" alt="Experience" />
-
-**Intern Full Stack Developer** — *General Emilio Aguinaldo Memorial Hospital (2026)*  
-Building medical-related projects and systems.
-
-<br>
-
-**Full Stack Developer** — *VCM HRIS (2025 - 2026)*  
-Built the core architecture for a comprehensive QR-Code based Human Resource Information System with employee management, leave tracking, job applications, real-time notifications, and payroll integration.
-
-<br>
-
-**Freelance Developer** — *(2025 - Present)*  
-Developing custom software systems, scalable cloud solutions, and robust architectures for SMEs and institutions.
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&color=0077b5&vCenter=true&width=500&lines=SELECTED+WORK" alt="Selected Work" />
-
-### PaceMentor
-Comprehensive mobile application that transforms how runners train, track, and achieve their goals. Featuring AI-powered coaching, adaptive training plans, real-time GPS tracking, and Strava integration.  
-**Stack:** Flutter, Next.js, AI
-
-<br>
-
-### VCM HRIS
-Comprehensive QR-Code based Human Resource Information System with employee management, leave tracking, job applications, real-time notifications, and payroll integration.  
-**Stack:** Laravel, PHP, MySQL
-
-<br>
-
-### TMRC
-Running Club Website built for Trece Martirez Running Club, showcasing their upcoming and past races, race results, and community updates.  
-**Stack:** Next.js, TypeScript
-
-<br>
-
-### Present Po
-Comprehensive attendance and time tracking application that transforms how organizations monitor workforce presence, manage schedules, and generate reports.  
-**Stack:** Next.js, Supabase
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&color=0077b5&vCenter=true&width=500&lines=TECHNICAL+STACK" alt="Technical Stack" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              hiroqt@portfolio:~$ cat github_stats.log           ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hiroqt&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=FFFFFF&dates=39D353&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiroqt&bg_color=0D1117&color=39D353&line=39D353&point=ffffff&area=true&hide_border=true&area_color=39D35320" width="100%" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              hiroqt@portfolio:~$ cat about.txt                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+I am a Generative AI & Full-Stack Developer specializing in **React, Next.js, Vue.js, Laravel**, and **AI integration**. I build production-ready systems that automate processes, transform organizational workflows, and deliver seamless user experiences.
+
+> 💼 View full portfolio → **[yhel.vercel.app](https://yhel.vercel.app/)**
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              hiroqt@portfolio:~$ cat experience.log             ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+```bash
+# [2026]         Intern Full Stack Developer
+# Company:       General Emilio Aguinaldo Memorial Hospital
+# Role:          Building medical-related projects and systems.
+
+# [2025 - 2026]  Full Stack Developer
+# Project:       VCM HRIS (Capstone)
+# Role:          Engineered QR-Code based HRIS with employee management,
+#                leave tracking, job applications & payroll integration.
+
+# [2025 - NOW]   Freelance Developer
+# Role:          Custom software systems for SMEs and institutions.
+```
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              hiroqt@portfolio:~$ ls ./projects/                 ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+```
+drwxr-xr-x  PaceMentor/     [Flutter · Next.js · AI]
+drwxr-xr-x  VCM-HRIS/       [Laravel · PHP · MySQL]
+drwxr-xr-x  TMRC/           [Next.js · TypeScript]
+drwxr-xr-x  Present-Po/     [Next.js · Supabase]
+```
+
+| Project | Description | Stack |
+|---|---|---|
+| **PaceMentor** | AI-powered running coach with GPS tracking and Strava integration | Flutter, Next.js, AI |
+| **VCM HRIS** | Comprehensive QR-Code based HR system with payroll & real-time notifications | Laravel, PHP, MySQL |
+| **TMRC** | Running Club site showcasing races, results, and community updates | Next.js, TypeScript |
+| **Present Po** | Attendance and time tracking with schedule management and reporting | Next.js, Supabase |
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              hiroqt@portfolio:~$ cat tech_stack.json            ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+```json
+{
+  "frontend":  ["React", "Next.js", "Vue.js", "Tailwind CSS", "TypeScript", "Flutter"],
+  "backend":   ["Laravel", "Node.js", "Firebase", "MySQL", "Supabase"],
+  "devops":    ["Vercel", "AWS", "Git", "Figma", "Trello"],
+  "ai":        ["OpenAI API", "Groq LLM", "Prompt Engineering", "RAG"]
+}
+```
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=39D353)
 ![Next.js](https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-18181B?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-18181B?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-18181B?style=for-the-badge&logo=flutter&logoColor=white)
-
-<br>
-
-**Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-18181B?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-18181B?style=for-the-badge&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-18181B?style=for-the-badge&logo=supabase&logoColor=white)
-
-<br>
-
-**DevOps & Tools**  
+![Vue.js](https://img.shields.io/badge/Vue.js-18181B?style=for-the-badge&logo=vue.js&logoColor=39D353)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-18181B?style=for-the-badge&logo=tailwind-css&logoColor=39D353)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=39D353)
+![Flutter](https://img.shields.io/badge/Flutter-18181B?style=for-the-badge&logo=flutter&logoColor=39D353)
+![Laravel](https://img.shields.io/badge/Laravel-18181B?style=for-the-badge&logo=laravel&logoColor=39D353)
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=39D353)
+![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=39D353)
+![Supabase](https://img.shields.io/badge/Supabase-18181B?style=for-the-badge&logo=supabase&logoColor=39D353)
 ![Vercel](https://img.shields.io/badge/Vercel-18181B?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-18181B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-18181B?style=for-the-badge&logo=trello&logoColor=white)
+![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=39D353)
+![Figma](https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=39D353)
+![AWS](https://img.shields.io/badge/AWS-18181B?style=for-the-badge&logo=amazon-aws&logoColor=39D353)
 
 </div>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&color=0077b5&vCenter=true&width=500&lines=CERTIFICATIONS" alt="Certifications" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              hiroqt@portfolio:~$ cat certifications.txt         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-#### IBM AI Certifications
-- **AI Fundamentals:** Foundations for Understanding AI
-- **AI Forms and Functions**
-- **Introduction to Artificial Intelligence**
-- **Machine Learning**
-- **Neural Networks and Deep Learning**
-- **Retrieval-Augmented Generation** for Enhanced AI Outputs
-- **The Intelligence Behind AI**
+```
+[IBM AI]  ✔  AI Fundamentals: Foundations for Understanding AI
+[IBM AI]  ✔  AI Forms and Functions
+[IBM AI]  ✔  Introduction to Artificial Intelligence
+[IBM AI]  ✔  Machine Learning
+[IBM AI]  ✔  Neural Networks and Deep Learning
+[IBM AI]  ✔  Retrieval-Augmented Generation for Enhanced AI Outputs
+[IBM AI]  ✔  The Intelligence Behind AI
 
-<br>
+[AWS]     ✔  Advanced SQL and Database Design
+[AWS]     ✔  AWS Knowledge: Object Storage
+[AWS]     ✔  Generative AI
+[AWS]     ✔  Serverless Mindset
 
-#### AWS Certifications
-- **Advanced SQL and Database Design**
-- **AWS Knowledge:** Object Storage
-- **Generative AI**
-- **Serverless Mindset**
-
-<br>
-
-#### Professional Certifications & Experience
-- **Lean Six Sigma White Belt** — *Process Improvement & Quality Management*
-- **Internship (486hrs)** — *Full Stack & IT Support at General Emilio Aguinaldo Memorial Hospital*
+[PROF]    ✔  Lean Six Sigma White Belt — Process Improvement & Quality Management
+[PROF]    ✔  Internship 486hrs — Full Stack & IT Support @ GEAMH
+```
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&color=0077b5&vCenter=true&width=500&lines=CONTACT" alt="Contact" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              hiroqt@portfolio:~$ cat contact.txt                ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-[![Email](https://img.shields.io/badge/Email-arnelbaylon15%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnelbaylon15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnel%20Baylon-18181B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnel-baylon-b05233189)
-[![Facebook](https://img.shields.io/badge/Facebook-Arnel%20Baylon-18181B?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arnel.baylon.165)
-[![Instagram](https://img.shields.io/badge/Instagram-@yheellll-18181B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yheellll?igsh=MWYxMDZlMzYzNXA2dw)
-[![Phone](https://img.shields.io/badge/Phone-%2B63%20969%20286%202127-18181B?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639692862127)
+[![Email](https://img.shields.io/badge/▶_arnelbaylon15@gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:arnelbaylon15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/▶_LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/arnel-baylon-b05233189)
+[![Facebook](https://img.shields.io/badge/▶_Facebook-18181B?style=for-the-badge&logo=facebook&logoColor=39D353)](https://www.facebook.com/arnel.baylon.165)
+[![Instagram](https://img.shields.io/badge/▶_@yheellll-18181B?style=for-the-badge&logo=instagram&logoColor=39D353)](https://www.instagram.com/yheellll?igsh=MWYxMDZlMzYzNXA2dw)
+[![WhatsApp](https://img.shields.io/badge/▶_+63_969_286_2127-18181B?style=for-the-badge&logo=whatsapp&logoColor=39D353)](tel:+639692862127)
 
-<br>
 <br>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=hiroqt&color=18181B&style=for-the-badge)
+```
+hiroqt@portfolio:~$ exit
+Connection closed. Thanks for visiting!
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=hiroqt&color=39D353&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
