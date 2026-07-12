@@ -1,8 +1,6 @@
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              hiroqt@portfolio:~$ whoami                         ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+whoami" alt="whoami" />
+</div>
 
 <div align="center">
 
@@ -22,11 +20,9 @@
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              hiroqt@portfolio:~$ cat github_stats.log           ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+cat+github_stats.log" alt="github stats" />
+</div>
 
 <div align="center">
 
@@ -40,11 +36,9 @@
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              hiroqt@portfolio:~$ cat about.txt                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+cat+about.txt" alt="about" />
+</div>
 
 I am a Generative AI & Full-Stack Developer specializing in **React, Next.js, Vue.js, Laravel**, and **AI integration**. I build production-ready systems that automate processes, transform organizational workflows, and deliver seamless user experiences.
 
@@ -52,11 +46,9 @@ I am a Generative AI & Full-Stack Developer specializing in **React, Next.js, Vu
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              hiroqt@portfolio:~$ cat experience.log             ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+cat+experience.log" alt="experience" />
+</div>
 
 ```bash
 # [2026]         Intern Full Stack Developer
@@ -74,11 +66,9 @@ I am a Generative AI & Full-Stack Developer specializing in **React, Next.js, Vu
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              hiroqt@portfolio:~$ ls ./projects/                 ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+ls+.%2Fprojects%2F" alt="projects" />
+</div>
 
 ```
 drwxr-xr-x  PaceMentor/     [Flutter · Next.js · AI]
@@ -96,11 +86,9 @@ drwxr-xr-x  Present-Po/     [Next.js · Supabase]
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              hiroqt@portfolio:~$ cat tech_stack.json            ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+cat+tech_stack.json" alt="tech stack" />
+</div>
 
 ```json
 {
@@ -132,11 +120,9 @@ drwxr-xr-x  Present-Po/     [Next.js · Supabase]
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              hiroqt@portfolio:~$ cat certifications.txt         ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+cat+certifications.txt" alt="certifications" />
+</div>
 
 ```
 [IBM AI]  ✔  AI Fundamentals: Foundations for Understanding AI
@@ -158,17 +144,19 @@ drwxr-xr-x  Present-Po/     [Next.js · Supabase]
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              hiroqt@portfolio:~$ cat contact.txt                ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+cat+contact.txt" alt="contact" />
+</div>
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/▶_arnelbaylon15@gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:arnelbaylon15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/▶_LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/arnel-baylon-b05233189)
 [![Facebook](https://img.shields.io/badge/▶_Facebook-18181B?style=for-the-badge&logo=facebook&logoColor=39D353)](https://www.facebook.com/arnel.baylon.165)
 [![Instagram](https://img.shields.io/badge/▶_@yheellll-18181B?style=for-the-badge&logo=instagram&logoColor=39D353)](https://www.instagram.com/yheellll?igsh=MWYxMDZlMzYzNXA2dw)
 [![WhatsApp](https://img.shields.io/badge/▶_+63_969_286_2127-18181B?style=for-the-badge&logo=whatsapp&logoColor=39D353)](tel:+639692862127)
+
+</div>
 
 <br>
 
