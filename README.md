@@ -26,6 +26,8 @@
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hiroqt&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=FFFFFF&dates=39D353&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiroqt&bg_color=0D1117&color=39D353&line=39D353&point=ffffff&area=true&hide_border=true&area_color=39D35320" width="100%" alt="GitHub Activity Graph" />
