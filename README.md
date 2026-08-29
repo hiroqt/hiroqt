@@ -1,64 +1,96 @@
 # Arnel A. Baylon
 
-**Generative AI Developer · Full-Stack Engineer**
+<div align="center">
 
-I build practical software, AI-powered applications, and digital systems designed to solve real-world problems.
+### Generative AI Developer · Full-Stack Engineer
 
-[Portfolio](https://yhel.vercel.app) · [LinkedIn](https://www.linkedin.com/in/arnel-baylon-b05233189)
+Building practical software, intelligent systems, and meaningful digital experiences.
 
----
+[Portfolio](https://yhel.vercel.app) • [LinkedIn](https://www.linkedin.com/in/arnel-baylon-b05233189) • [Email](mailto:arnelbaylon15@gmail.com)
 
-## Introduction
+</div>
 
-I'm a developer focused on building modern web applications, intelligent systems, and AI-powered experiences.
+<br/>
 
-From system architecture and databases to polished interfaces and AI integrations, I enjoy turning ideas into products people can actually use.
+## <img src="https://api.iconify.design/lucide:user-round.svg?color=%2339D353" width="20" height="20" align="absmiddle"> Introduction
 
-Currently focused on **AI Engineering, Full-Stack Development, and System Architecture**.
+I'm **Arnel**, a Full-Stack Developer focused on building AI-powered applications, modern web platforms, and systems that solve real-world problems.
 
----
+I enjoy working across the stack, from **system architecture and databases** to **interfaces, APIs, and AI integrations**.
 
-## What I Build
-
-I work on products across civic technology, AI, productivity, and digital platforms.
-
-### Featured Projects
-
-<img src="https://cdn.simpleicons.org/nextdotjs/39D353" width="18" height="18" /> **BetterTreceMartires**
-
-Open-source civic technology platform making local data and public information more accessible.
-
-`Next.js` · `TypeScript` · `Civic Tech`
+> Currently exploring **AI Engineering**, **RAG**, and **intelligent applications**.
 
 ---
 
-<img src="https://cdn.simpleicons.org/vercel/39D353" width="18" height="18" /> **YhelOS**
+## <img src="https://api.iconify.design/lucide:layers-3.svg?color=%2339D353" width="20" height="20" align="absmiddle"> Featured Projects
 
-A personal digital ecosystem focused on productivity, intelligent tools, and connected experiences.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Next.js` · `TypeScript` · `AI`
+### <img src="https://api.iconify.design/lucide:landmark.svg?color=%2339D353" width="18" height="18" align="absmiddle"> BetterTreceMartires
+
+Open-source civic technology platform focused on making local government data and public information more accessible.
+
+`Next.js` `TypeScript` `Supabase`
+
+</td>
+
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%2339D353" width="18" height="18" align="absmiddle"> YhelOS
+
+A personal digital ecosystem focused on productivity, automation, and AI-powered workflows.
+
+`Next.js` `TypeScript` `AI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide:bot.svg?color=%2339D353" width="18" height="18" align="absmiddle"> eGov AI
+
+An AI-powered platform designed to simplify access to government information and services.
+
+`Next.js` `RAG` `OpenAI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide:palette.svg?color=%2339D353" width="18" height="18" align="absmiddle"> PixelCrew
+
+A collaborative creative platform for managing digital projects and building modern web experiences.
+
+`Next.js` `Supabase` `TypeScript`
+
+</td>
+</tr>
+</table>
 
 ---
 
-<img src="https://cdn.simpleicons.org/openai/39D353" width="18" height="18" /> **eGov AI**
+## <img src="https://api.iconify.design/lucide:code-2.svg?color=%2339D353" width="20" height="20" align="absmiddle"> What I Build
 
-An AI-powered platform exploring better ways to access, understand, and interact with government information.
-
-`AI` · `RAG` · `Next.js`
-
----
-
-<img src="https://cdn.simpleicons.org/figma/39D353" width="18" height="18" /> **PixelCrew**
-
-A digital platform built around creativity, collaboration, and modern project experiences.
-
-`Next.js` · `TypeScript` · `Supabase`
+- AI-powered web applications
+- Full-stack systems
+- RAG-based applications
+- Civic technology
+- Automation tools
+- Modern web experiences
 
 ---
 
-## Currently
+<div align="center">
 
-```text
-Building   → AI-powered applications and digital platforms
-Exploring  → AI Engineering, RAG, and intelligent systems
-Learning   → Scalable architecture and better software design
+### <img src="https://api.iconify.design/lucide:cpu.svg?color=%2339D353" width="18" height="18" align="absmiddle"> Current Focus
+
+`Generative AI` · `System Architecture` · `Full-Stack Development`
+
+<br/><br/>
+
+*"Build useful things. Keep learning. Ship better software."*
+
+</div>
