@@ -1,172 +1,159 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+whoami" alt="whoami" />
-</div>
 
-<div align="center">
+# Arnel A. Baylon
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=39D353&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%24+./init_profile.sh;Loading+Arnel+A.+Baylon...+%5BOK%5D" alt="init" />
+**Generative AI Developer · Full-Stack Engineer · System Architect**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Arnel+A.+Baylon;Generative+AI+Developer;Full-Stack+Engineer;System+Architect" alt="Typing SVG" />
+Building practical software, AI-powered tools, and systems that solve real problems.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=800&color=39D353&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%24+status%3A+OPEN+TO+OPPORTUNITIES+%E2%9C%94;%24+location%3A+Trece+Martires+City%2C+Cavite+%E2%9C%94" alt="status" />
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/▶_yhel.vercel.app-18181B?style=for-the-badge&logo=vercel&logoColor=39D353)](https://yhel.vercel.app/)
-[![Email](https://img.shields.io/badge/▶_arnelbaylon15@gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:arnelbaylon15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/▶_LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/arnel-baylon-b05233189)
+[Portfolio](https://yhel.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/arnel-baylon-b05233189) · [Email](mailto:arnelbaylon15@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+cat+github_stats.log" alt="github stats" />
-</div>
+### `whoami`
+
+I'm a **Generative AI and Full-Stack Developer** based in Trece Martires City, Cavite.
+
+I enjoy turning ideas into working products, from designing the architecture and database to building the interface, backend, and AI integrations.
+
+My focus is on building software that is **useful, maintainable, and easy to understand**.
+
+Currently open to opportunities in **software development, full-stack engineering, and AI development**.
+
+---
+
+### `experience`
+
+**Full Stack Developer Intern**  
+General Emilio Aguinaldo Memorial Hospital · 2026
+
+Building and supporting software systems while working across frontend, backend, databases, and IT operations.
+
+**Full Stack Developer · VCM HRIS**  
+2025–2026
+
+Built a QR-based HRIS as a capstone project, covering employee management, leave tracking, job applications, payroll integration, and notifications.
+
+**Freelance Developer**  
+2025–Present
+
+Building custom websites, internal tools, and software systems for organizations and small businesses.
+
+---
+
+### `projects`
+
+#### PaceMentor
+
+An AI-powered running coach designed to help runners understand their training and improve their performance.
+
+`Flutter` `Next.js` `AI` `GPS` `Strava`
+
+#### VCM HRIS
+
+A QR-based human resource management system covering employee records, attendance, leave management, applications, payroll, and notifications.
+
+`Laravel` `PHP` `MySQL`
+
+#### TMRC
+
+A running club platform for races, results, announcements, and community updates.
+
+`Next.js` `TypeScript`
+
+#### Present Po
+
+An attendance and time-tracking platform with scheduling and reporting features.
+
+`Next.js` `Supabase`
+
+---
+
+### `stack`
+
+**Frontend**
+
+React · Next.js · Vue.js · TypeScript · Tailwind CSS · Flutter
+
+**Backend**
+
+Laravel · Node.js · Firebase · MySQL · Supabase
+
+**AI**
+
+OpenAI API · Groq · RAG · Prompt Engineering
+
+**Infrastructure & Tools**
+
+Vercel · AWS · Git · Figma · Trello
+
+---
+
+### `ai`
+
+I'm particularly interested in the practical side of AI development.
+
+My work includes:
+
+- Integrating LLMs into real applications
+- Retrieval-Augmented Generation
+- AI-assisted workflows
+- Prompt engineering
+- Building AI features around existing software systems
+- Connecting AI with databases, APIs, and user-facing applications
+
+The goal isn't simply to add AI.
+
+**The goal is to make software better with it.**
+
+---
+
+### `certifications`
+
+**IBM**
+
+AI Fundamentals: Foundations for Understanding AI  
+AI Forms and Functions  
+Introduction to Artificial Intelligence  
+Machine Learning  
+Neural Networks and Deep Learning  
+Retrieval-Augmented Generation for Enhanced AI Outputs  
+The Intelligence Behind AI
+
+**AWS**
+
+Advanced SQL and Database Design  
+AWS Knowledge: Object Storage  
+Generative AI  
+Serverless Mindset
+
+**Professional**
+
+Lean Six Sigma White Belt — Process Improvement & Quality Management  
+486-hour Internship — Full Stack Development & IT Support
+
+---
+
+### `github`
+
+I use GitHub to experiment, build projects, learn new technologies, and turn ideas into working software.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hiroqt&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=FFFFFF&dates=39D353&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiroqt&theme=dark&hide_border=true&background=0D1117)
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiroqt&bg_color=0D1117&color=39D353&line=39D353&point=ffffff&area=true&hide_border=true&area_color=39D35320" width="100%" alt="GitHub Activity Graph" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiroqt&bg_color=0D1117&color=39D353&line=39D353&point=ffffff&area=true&hide_border=true)
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+cat+about.txt" alt="about" />
-</div>
+### `currently`
 
-I am a Generative AI & Full-Stack Developer specializing in **React, Next.js, Vue.js, Laravel**, and **AI integration**. I build production-ready systems that automate processes, transform organizational workflows, and deliver seamless user experiences.
-
-> 💼 View full portfolio → **[yhel.vercel.app](https://yhel.vercel.app/)**
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+cat+experience.log" alt="experience" />
-</div>
-
-```bash
-# [2026]         Intern Full Stack Developer
-# Company:       General Emilio Aguinaldo Memorial Hospital
-# Role:          Building medical-related projects and systems.
-
-# [2025 - 2026]  Full Stack Developer
-# Project:       VCM HRIS (Capstone)
-# Role:          Engineered QR-Code based HRIS with employee management,
-#                leave tracking, job applications & payroll integration.
-
-# [2025 - NOW]   Freelance Developer
-# Role:          Custom software systems for SMEs and institutions.
-```
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+ls+.%2Fprojects%2F" alt="projects" />
-</div>
-
-```
-drwxr-xr-x  PaceMentor/     [Flutter · Next.js · AI]
-drwxr-xr-x  VCM-HRIS/       [Laravel · PHP · MySQL]
-drwxr-xr-x  TMRC/           [Next.js · TypeScript]
-drwxr-xr-x  Present-Po/     [Next.js · Supabase]
-```
-
-| Project | Description | Stack |
-|---|---|---|
-| **PaceMentor** | AI-powered running coach with GPS tracking and Strava integration | Flutter, Next.js, AI |
-| **VCM HRIS** | Comprehensive QR-Code based HR system with payroll & real-time notifications | Laravel, PHP, MySQL |
-| **TMRC** | Running Club site showcasing races, results, and community updates | Next.js, TypeScript |
-| **Present Po** | Attendance and time tracking with schedule management and reporting | Next.js, Supabase |
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+cat+tech_stack.json" alt="tech stack" />
-</div>
-
-```json
-{
-  "frontend":  ["React", "Next.js", "Vue.js", "Tailwind CSS", "TypeScript", "Flutter"],
-  "backend":   ["Laravel", "Node.js", "Firebase", "MySQL", "Supabase"],
-  "devops":    ["Vercel", "AWS", "Git", "Figma", "Trello"],
-  "ai":        ["OpenAI API", "Groq LLM", "Prompt Engineering", "RAG"]
-}
-```
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=39D353)
-![Next.js](https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-18181B?style=for-the-badge&logo=vue.js&logoColor=39D353)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-18181B?style=for-the-badge&logo=tailwind-css&logoColor=39D353)
-![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=39D353)
-![Flutter](https://img.shields.io/badge/Flutter-18181B?style=for-the-badge&logo=flutter&logoColor=39D353)
-![Laravel](https://img.shields.io/badge/Laravel-18181B?style=for-the-badge&logo=laravel&logoColor=39D353)
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=39D353)
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=39D353)
-![Supabase](https://img.shields.io/badge/Supabase-18181B?style=for-the-badge&logo=supabase&logoColor=39D353)
-![Vercel](https://img.shields.io/badge/Vercel-18181B?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=39D353)
-![Figma](https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=39D353)
-![AWS](https://img.shields.io/badge/AWS-18181B?style=for-the-badge&logo=amazon-aws&logoColor=39D353)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+cat+certifications.txt" alt="certifications" />
-</div>
-
-```
-[IBM AI]  ✔  AI Fundamentals: Foundations for Understanding AI
-[IBM AI]  ✔  AI Forms and Functions
-[IBM AI]  ✔  Introduction to Artificial Intelligence
-[IBM AI]  ✔  Machine Learning
-[IBM AI]  ✔  Neural Networks and Deep Learning
-[IBM AI]  ✔  Retrieval-Augmented Generation for Enhanced AI Outputs
-[IBM AI]  ✔  The Intelligence Behind AI
-
-[AWS]     ✔  Advanced SQL and Database Design
-[AWS]     ✔  AWS Knowledge: Object Storage
-[AWS]     ✔  Generative AI
-[AWS]     ✔  Serverless Mindset
-
-[PROF]    ✔  Lean Six Sigma White Belt — Process Improvement & Quality Management
-[PROF]    ✔  Internship 486hrs — Full Stack & IT Support @ GEAMH
-```
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=9999&color=39D353&center=true&vCenter=true&width=700&lines=hiroqt%40portfolio%3A~%24+cat+contact.txt" alt="contact" />
-</div>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/▶_arnelbaylon15@gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:arnelbaylon15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/▶_LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/arnel-baylon-b05233189)
-[![Facebook](https://img.shields.io/badge/▶_Facebook-18181B?style=for-the-badge&logo=facebook&logoColor=39D353)](https://www.facebook.com/arnel.baylon.165)
-[![Instagram](https://img.shields.io/badge/▶_@yheellll-18181B?style=for-the-badge&logo=instagram&logoColor=39D353)](https://www.instagram.com/yheellll?igsh=MWYxMDZlMzYzNXA2dw)
-[![WhatsApp](https://img.shields.io/badge/▶_+63_969_286_2127-18181B?style=for-the-badge&logo=whatsapp&logoColor=39D353)](tel:+639692862127)
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-hiroqt@portfolio:~$ exit
-Connection closed. Thanks for visiting!
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=hiroqt&color=39D353&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+```text
+Learning      → AI Engineering & System Architecture
+Building     → AI-powered applications
+Exploring    → LLMs, RAG, automation & scalable systems
+Looking for  → Opportunities to build useful software
