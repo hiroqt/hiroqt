@@ -1,55 +1,64 @@
-<div align="center">
-
 # Arnel A. Baylon
 
 **Generative AI Developer · Full-Stack Engineer**
 
-I build practical software, AI-powered applications, and systems that solve real-world problems.
+I build practical software, AI-powered applications, and digital systems designed to solve real-world problems.
 
 [Portfolio](https://yhel.vercel.app) · [LinkedIn](https://www.linkedin.com/in/arnel-baylon-b05233189)
-
-</div>
 
 ---
 
 ## Introduction
 
-I'm a Full-Stack Developer focused on **AI, web applications, and system development**.
+I'm a developer focused on building modern web applications, intelligent systems, and AI-powered experiences.
 
-I enjoy turning ideas into working products, from architecture and databases to interfaces, APIs, and AI integrations.
+From system architecture and databases to polished interfaces and AI integrations, I enjoy turning ideas into products people can actually use.
 
-Currently exploring **AI engineering, system architecture, and intelligent applications**.
+Currently focused on **AI Engineering, Full-Stack Development, and System Architecture**.
 
 ---
 
 ## What I Build
 
-### BetterTreceMartires
-Open-source civic technology platform making local government data and public information more accessible.
+I work on products across civic technology, AI, productivity, and digital platforms.
 
-`Next.js` `TypeScript` `Civic Tech`
+### Featured Projects
 
-### YhelOS
-A personal operating system and digital workspace built around productivity, automation, and intelligent tools.
+<img src="https://cdn.simpleicons.org/nextdotjs/39D353" width="18" height="18" /> **BetterTreceMartires**
 
-`Next.js` `TypeScript` `AI`
+Open-source civic technology platform making local data and public information more accessible.
 
-### eGov AI
-An AI-powered platform designed to make government information and services easier to understand and access.
-
-`AI` `Next.js` `RAG`
-
-### PixelCrew
-A creative and collaborative platform for building, managing, and showcasing digital projects.
-
-`Next.js` `TypeScript` `Supabase`
+`Next.js` · `TypeScript` · `Civic Tech`
 
 ---
 
-<div align="center">
+<img src="https://cdn.simpleicons.org/vercel/39D353" width="18" height="18" /> **YhelOS**
 
-### Currently
+A personal digital ecosystem focused on productivity, intelligent tools, and connected experiences.
 
-`AI Engineering` · `Full-Stack Development` · `System Architecture`
+`Next.js` · `TypeScript` · `AI`
 
-</div>
+---
+
+<img src="https://cdn.simpleicons.org/openai/39D353" width="18" height="18" /> **eGov AI**
+
+An AI-powered platform exploring better ways to access, understand, and interact with government information.
+
+`AI` · `RAG` · `Next.js`
+
+---
+
+<img src="https://cdn.simpleicons.org/figma/39D353" width="18" height="18" /> **PixelCrew**
+
+A digital platform built around creativity, collaboration, and modern project experiences.
+
+`Next.js` · `TypeScript` · `Supabase`
+
+---
+
+## Currently
+
+```text
+Building   → AI-powered applications and digital platforms
+Exploring  → AI Engineering, RAG, and intelligent systems
+Learning   → Scalable architecture and better software design
